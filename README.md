@@ -1,0 +1,2 @@
+# magiskpolicy
+sepolicy patching tool
